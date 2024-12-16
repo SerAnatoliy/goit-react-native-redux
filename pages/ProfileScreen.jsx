@@ -24,7 +24,7 @@ const ProfileScreen = () => {
   return (
     <View style={styles.container}>
       <Image
-        source={require("../assets/images/background.png")}
+        source={require("../assets/images/background.jpg")}
         style={styles.image}
         resizeMode="cover"
       />
