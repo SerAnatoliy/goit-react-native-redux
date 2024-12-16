@@ -68,7 +68,7 @@ const RegistrationScreen = () => {
         behavior={Platform.OS === "ios" ? "height" : "padding"}
       >
         <Image
-          source={require("../assets/images/background.png")}
+          source={require("../assets/images/background.jpg")}
           style={styles.image}
           resizeMode="cover"
         />

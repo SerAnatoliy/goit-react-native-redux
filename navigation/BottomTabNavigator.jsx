@@ -3,7 +3,7 @@ import PostsScreen from "../pages/PostsScreen";
 import LogoutIcon from "../icons/LogoutIcon";
 import MenuIcon from "../icons/MenuIcon";
 import ProfileScreen from "../pages/ProfileScreen";
-import CreatePostScreen from "../pages/CreatePostScreen";
+import CreatePostScreen from "../pages/CreatePostsScreen";
 import PersonIcon from "../icons/PersonIcon";
 import { StyleSheet, View } from "react-native";
 import AddButton from "../components/AddButton";
